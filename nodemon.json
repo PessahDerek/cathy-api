@@ -4,5 +4,5 @@
   "ignore": [
     "node_modules/**/*"
   ],
-  "exec": "ts-node src/index.ts"
+  "exec": "npx mikro-orm migration:create && npx mikro-orm migration:up && ts-node src/index.ts"
 }

@@ -11,7 +11,7 @@
           "primary": false,
           "nullable": false,
           "length": 255,
-          "default": "'9KhS6g'",
+          "default": "'5ORsZW'",
           "mappedType": "string"
         },
         "user_name": {
@@ -173,7 +173,7 @@
           "primary": false,
           "nullable": false,
           "length": 255,
-          "default": "'Ra9M5R'",
+          "default": "'WvIUbb'",
           "mappedType": "string"
         },
         "name": {
@@ -266,6 +266,16 @@
           "nullable": true,
           "length": 255,
           "mappedType": "string"
+        },
+        "rating": {
+          "name": "rating",
+          "type": "int",
+          "unsigned": false,
+          "autoincrement": false,
+          "primary": false,
+          "nullable": true,
+          "length": null,
+          "mappedType": "integer"
         }
       },
       "name": "business_entity",
@@ -319,7 +329,7 @@
           "primary": false,
           "nullable": false,
           "length": 255,
-          "default": "'f1DZpv'",
+          "default": "'1yHIHV'",
           "mappedType": "string"
         },
         "type": {
@@ -403,7 +413,7 @@
           "primary": false,
           "nullable": false,
           "length": 255,
-          "default": "'fzDZoO'",
+          "default": "'syNhab'",
           "mappedType": "string"
         },
         "name": {
@@ -487,7 +497,7 @@
           "primary": false,
           "nullable": false,
           "length": 255,
-          "default": "'U9fB16'",
+          "default": "'QD0PCD'",
           "mappedType": "string"
         },
         "user_id": {
@@ -604,7 +614,7 @@
           "primary": false,
           "nullable": false,
           "length": 255,
-          "default": "'ViD8Kl'",
+          "default": "'lVFHQV'",
           "mappedType": "string"
         },
         "img": {
